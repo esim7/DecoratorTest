@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.exe
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.deps.json
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.runtimeconfig.json
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.runtimeconfig.dev.json
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.dll
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\bin\Debug\netcoreapp3.0\DecoratorTest.pdb
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\obj\Debug\netcoreapp3.0\DecoratorTest.csprojAssemblyReference.cache
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\obj\Debug\netcoreapp3.0\DecoratorTest.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\obj\Debug\netcoreapp3.0\DecoratorTest.AssemblyInfo.cs
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\obj\Debug\netcoreapp3.0\DecoratorTest.dll
+C:\Users\home\source\repos\DecoratorTest\DecoratorTest\obj\Debug\netcoreapp3.0\DecoratorTest.pdb
